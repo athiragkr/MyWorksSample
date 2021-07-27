@@ -58,6 +58,7 @@
                 alertify.success(successMessage);
         });
 
+
         function Delete(id) {
             alertify.confirm('Web Api Crud Operation', 'Are you sure to delete this Record?', function () {
                 window.location.href = '@Url.Action("Delete","Employee")/' + id;
