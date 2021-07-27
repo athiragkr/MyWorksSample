@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCrudApp", "WebApiCrudApp\WebApiCrudApp.csproj", "{FFF81DE3-E9DC-48C5-A75F-5CE76D50B63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCrudApp", "MVCCrudApp\MVCCrudApp.csproj", "{54C39CA8-6900-4284-948E-320CBA4E946B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF81DE3-E9DC-48C5-A75F-5CE76D50B63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF81DE3-E9DC-48C5-A75F-5CE76D50B63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF81DE3-E9DC-48C5-A75F-5CE76D50B63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF81DE3-E9DC-48C5-A75F-5CE76D50B63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C39CA8-6900-4284-948E-320CBA4E946B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C39CA8-6900-4284-948E-320CBA4E946B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C39CA8-6900-4284-948E-320CBA4E946B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C39CA8-6900-4284-948E-320CBA4E946B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06479908-050E-4197-8C5E-E22F8AB7495D}
+	EndGlobalSection
+EndGlobal
